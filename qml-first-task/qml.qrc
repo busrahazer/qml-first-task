@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Options.qml</file>
+        <file>PageSound.qml</file>
+        <file>PageLight.qml</file>
+    </qresource>
+</RCC>
